@@ -1,0 +1,17 @@
+{
+    "name": "Iji - Archipelago",
+    "game_name": "Iji",
+    "package_version": "1.0.0",
+    "package_uid": "Iji-Archipelago",
+    "platform": "Windows",
+    "author": "Ladybunne",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "versions_url": "https://raw.githubusercontent.com/ladybunne/Iji_PopTrackerPack/main/versions.json"
+}
